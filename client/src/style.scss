@@ -7,10 +7,17 @@ $lightGreen: #b9e7e7;
 }
 
 .app {
+    display: flex;
+    justify-content: center;
 
     .container {
-
+        width: 1024px;
         // login and register
+
+        .link{
+            text-decoration: none;
+            color: inherit;
+        }
 
         .auth {
             display: flex;
@@ -62,6 +69,53 @@ $lightGreen: #b9e7e7;
             }
         }
 
+        // navbar
+
+        .navbar {
+            .container{
+                padding: 10px 0;
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+
+                .logo {
+                    
+                }
+
+                .links {
+                    display: flex;
+                    align-items: center;
+                    gap: 10px;
+
+                    h6{
+                        font-size: 16px;
+                        font-weight: 300;
+                    }
+
+                    span {
+                        cursor: pointer;
+                    }
+
+                    .write {
+                        background-color: $lightGreen;
+                        width: 50px;
+                        height: 50px;
+                        border-radius: 50%;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        font-weight: 300;
+                        border: 1px solid white;
+
+                        &:hover {
+                            color: teal;
+                            background-color: white;
+                            border: 1px solid teal;
+                        }
+                    }
+                }
+            }
+        }
         
     }
 }

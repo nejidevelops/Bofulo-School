@@ -1,4 +1,4 @@
-# EDUPO SCHOOL
+# Bofulo School
 
    ## By Newton Ombese
    ## By Phoebe Ogallo
@@ -19,7 +19,7 @@
 
 ## Description
 
- <p>This project is a REACT application for EDUPO School that shows a database that keeps record of the school, has input forms for adding students, teacher and courses, a contact form that is used to send queries.</p>
+ <p>This project is a REACT application for Bofulo School that shows a database that keeps record of the school, has input forms for adding students, teacher and courses, a contact form that is used to send queries.</p>
 
 ## Features
 

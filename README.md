@@ -1,34 +1,87 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# EDUPO SCHOOL
 
-## Getting Started
+   ## By Newton Ombese
+   ## By Phoebe Ogallo
 
-First, run the development server:
+## Screenshot
+   ![image](./src/images/)
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## Table of Content
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- [Description](#description)
+- [Features](#features)
+- [Requirements](#requirements)
+- [Installation Process](#installation-Process)
+- [Live link](#Live-Link)
+- [Technology Used](#technology-Used)
+- [Licence](#licence)
+- [Authors Info](#Authors-info)
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## Description
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+ <p>This project is a REACT application for EDUPO School that shows a database that keeps record of the school, has input forms for adding students, teacher and courses, a contact form that is used to send queries.</p>
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Features
 
-## Learn More
+As a user of the application,you will be able to :
 
-To learn more about Next.js, take a look at the following resources:
+1. Add a student
+2. Add a course
+3. Add a teacher
+4. Send a message using the contact us form
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+ ###  Requirements
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+ * Access to  a computer or any other garget
 
-## Deploy on Vercel
+ * Access to internet
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Installation Process
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+ ****  
+* Clone to the repo : git clone https://github.com/NewtonOmbese/School-Management-System-ALX.git
+
+* Unzip the downloaded files in a folder of choice.
+
+* Open the index file from the zipped file with any browser.
+
+### Live Link
+* The live link for the project is https://ancient-crag-96879.herokuapp.com/
+
+### Technology  Used
+* REACT - For the frontend
+
+* CSS - which was used to style the User Interface.
+
+* Tailwind - which was used to create a responsive navbar
+
+* Ruby - For backend and database
+
+MIT License
+
+Copyright (c) [2022] [Newton Ombese, Phoebe Ogallo]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+## Authors Info
+
+LinkedIn - [Newton Ombese](https://www.linkedin.com/in/newton-ombese-570862210/)
+
+
+# ENJOY AND TAKE TIME TO LEARN CODING

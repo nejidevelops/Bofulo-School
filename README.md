@@ -3,9 +3,6 @@
    ## By Newton Ombese
    ## By Phoebe Ogallo
 
-## Screenshot
-   ![image](./src/images/)
-
 ## Table of Content
 
 - [Description](#description)

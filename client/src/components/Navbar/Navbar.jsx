@@ -65,7 +65,7 @@ function Navbar({ user, setUser }) {
         }}
         >
         <div>
-        EDUPO SCHOOL
+        BOFULO SCHOOL
         <i class="fas fa-graduation-cap"></i>
         </div>
       </Link>

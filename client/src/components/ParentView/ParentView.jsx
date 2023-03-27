@@ -22,7 +22,7 @@ function ParentView() {
 
 if (students.length === 0)
   return(
-    <h1 className="text-center p-3 text-black text-xl font-bold"> You have not enrolled any of your children to Edupo School</h1>
+    <h1 className="text-center p-3 text-black text-xl font-bold"> You have not enrolled any of your children to Bofulo School</h1>
   );
   return (
     <>     <h1 className="text-center p-3 text-black text-xl font-bold">

@@ -5,7 +5,7 @@ function Home() {
       <div className='row'>
           <div
             className="bg-image hover-overlay ripple"
-            style={{backgroundImage: "url('https://www.thoughtco.com/thmb/TCFXTqf8HO5k1XwR7UjqWiGnygI=/3000x1868/filters:fill(auto,1)/womangraduating-57471d735f9b58723d59fe16.jpg')",
+            style={{backgroundImage: "url('https://images.pexels.com/photos/1205651/pexels-photo-1205651.jpeg?auto=compress&cs=tinysrgb&w=3600')",
             height: '100vh', width:"100%" }}>
           <div className="mask" style={{backgroundColor: "rgba(0, 0, 0, 0.6)"}}>
               <div className="h-100">
@@ -51,7 +51,7 @@ function Home() {
             <div className="card-body">
               <h5 style={{fontWeight:'bold', fontFamily:'cursive', fontSize:'25px', color:'#000080'}} className="card-title">STUDENT</h5>
               <p style={{fontWeight:'normal', fontFamily:'cursive', fontSize:'18px'}} className="card-text">
-              With the Many Courses offered by Edupo School, our students will be partaking one course at a time and upon registration, they will have access to their given assessments, assignments and grades via the student's portal.
+              With the Many Courses offered by Bofulo School, our students will be partaking one course at a time and upon registration, they will have access to their given assessments, assignments and grades via the student's portal.
               </p>
             </div>
             <div className="card-footer">
@@ -64,7 +64,7 @@ function Home() {
             <div className="card-body">
               <h5 style={{fontWeight:'bold', fontFamily:'cursive', fontSize:'25px', color:'#000080'}} className="card-title">PARENT</h5>
               <p style={{fontWeight:'normal', fontFamily:'cursive', fontSize:'18px'}} className="card-text">
-              Edupo encourages transparency. Parents with students enrolled at edupo School will also be directly involved by being given an opportunity to log in and view their children's progress.
+              Bofulo encourages transparency. Parents with students enrolled at Bofulo School will also be directly involved by being given an opportunity to log in and view their children's progress.
               </p>
             </div>
             <div className="card-footer">

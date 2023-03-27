@@ -44,7 +44,7 @@ function SubjectStudents() {
             Back to My Subjects
           </Button>
         </div>
-        There are currently No students who take this Subject in Edupo School
+        There are currently No students who take this Subject in Bofulo School
       </h1>
     );
 

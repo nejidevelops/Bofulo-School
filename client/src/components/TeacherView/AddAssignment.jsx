@@ -94,7 +94,7 @@ function AddAssignment() {
         </div>
         <h1 className="text-center p-3 text-black text-xl font-bold">
           There are currently No Assignments for this Subject this Subject in
-          Edupo School
+          Bofulo School
         </h1>
         <div className="w-3/5 mx-auto mt-10 rounded-lg shadow-xl shadow-neutral-400">
           <h1 className="text-center mt-3 p-3 text-black text-xl font-bold">
